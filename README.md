@@ -143,4 +143,3 @@ docker run -p 8000:8000 alias-comicile
 ---
 
 Created by Mirnes — visionary architect of the SlizzAi verse.
-```
